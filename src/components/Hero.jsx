@@ -24,7 +24,7 @@ function Hero(props) {
                         
                     </div>
                     { on && <Banner /> }
-                    <img src="/sneakersPurple.png" className='main-img' alt="Purple and silver sneakers" />
+                    <img src="/nft-site/sneakersPurple.png" className='main-img' alt="Purple and silver sneakers" />
                     <p><strong>At $33k, this NFT sneaker is super good value!</strong></p>
                     <p>If you've got lots of money and you're a bit daft, NFTs are a
                         great way to pay for something that doesn't have any intrinsic
@@ -41,8 +41,8 @@ function Hero(props) {
             <section className="sectionTwo">
                 <h2 className="container">For the true Crypto-connoisseur</h2>
                 <div className="img-container">
-                    <img className="feature-img" src="/cryptoPunk.jpg" alt="punk with blach hair and red and blue glasses" />
-                    <img className="feature-img" src="/bag.svg" alt="Seven items from a game listed in white on a black background" />
+                    <img className="feature-img" src="/nft-site/cryptoPunk.jpg" alt="punk with blach hair and red and blue glasses" />
+                    <img className="feature-img" src="/nft-site/bag.svg" alt="Seven items from a game listed in white on a black background" />
                 </div>
                 <div className="container">
                     <p>Is $33k for sneakers too basic for you? No problem! This CryptoPunk
